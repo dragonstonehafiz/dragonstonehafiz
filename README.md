@@ -1,30 +1,53 @@
-# Hafiz | Building AI tools & apps
+<h1 align="center">Hi, I'm Hafiz 👋</h1>
+<h3 align="center">Developer focused on AI tools, automation, and practical apps</h3>
 
-I like shipping small, purposeful tools that make everyday tasks easier, then polishing them until they feel great to use. I come from a game dev background (Unity/C++), now focused on AI-assisted workflows, desktop apps, and translation tooling.
+<p align="center">
+<a href="https://dragonstonehafiz.com">🌐 Portfolio</a>
+</p>
 
-- 📍 Based in Singapore · Building AI-assisted tools and desktop apps
-- 🔭 Lately: iterating on Translator Helper (Angular + FastAPI) and polishing my PySide6 Spending Dashboard
-- 🎮 Game dev background (Unity/C++); these days I focus on AI-assisted tools and desktop apps
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=dragonstonehafiz&label=Visitors&color=0e75b6&style=plastic" alt="dragonstonehafiz" /> 
+</p>
 
-## Featured work
-- **Bird Laser Targeter (Raspberry Pi, MQTT, YOLO)** — Edge device that detects birds and drives servos/laser deterrence with a state machine; supports offloaded detection via MQTT. [Video](https://www.youtube.com/watch?v=NGxBpvvaONQ) · [Code](https://github.com/dragonstonehafiz/inf2009-project)
-- **Translator Helper (Angular + FastAPI, Whisper/LLMs)** — Full-stack assistant for transcribing and translating subtitle files, with context building. [Code](https://github.com/dragonstonehafiz/translator-helper) · [Video (v2)](https://youtu.be/Zi3OjbpptQk)
-- **Anime Image Upscaler (ESRGAN)** — Fine-tuned ESRGAN for anime art (15k+ images) with a Streamlit UI for interactive upscales. [Code](https://github.com/dragonstonehafiz/aai3001-large-project) · [Demo](https://youtu.be/zZiL5X7dj4A?si=lbiVmPAo993uzuzh)
-- **Spending Dashboard (PySide6 / Streamlit)** — Desktop and web dashboards for personal finance with Excel automation and interactive charts. [Code](https://github.com/dragonstonehafiz/budgeting-analysis)
-- **Portfolio Site (Flutter Web)** — Portfolio site rendered from JSON project data, Docker-deployed to GCP with responsive layouts. [Code](https://github.com/dragonstonehafiz/portfolio-site)
-- **Electronica (Unity/C#)** — Geometry Wars-inspired shooter; five enemy types, four bosses, two modes. [Gameplay](https://youtu.be/MX7wlNfxtfw)
+<p align="center">
+<img width=40% height=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dragonstonehafiz&show_icons=true&theme=dark&locale=en&layout=compact" alt="dragonstonehafiz" />
+<img width=55% height=55% align="center" src="https://github-readme-stats.vercel.app/api?username=dragonstonehafiz&show_icons=true&theme=dark&hide_title=true" alt="dragonstonehafiz" />
+</p>
 
-## Other builds
-- **AI Pathfinding Game (C++)** — A*/BFS, FSM AI, procedural mazes, fog-of-war. [Gameplay](https://youtu.be/5544wAwSE1I)
-- **Japanese Learning Card Game (Unity)** — Solo-built digital card game with an object-oriented card system. [Gameplay](https://youtu.be/lCBHCaszdQ4)
-- **The Last Survivor (Unity)** — Wave-based shooter with custom pathfinding and multiple enemy behaviors. [Gameplay](https://youtu.be/aMmrSXN9EI8)
-- **Resource Management Game (Java/LibGDX)** — Real-time sim with scene flow and UI. [Gameplay](https://youtu.be/xTgrENeVFi4?si=33A5JgegELn4uFcM)
-- **Diamond City Radio (Java/LibGDX)** — Fallout-inspired music player with DJ interludes. [Demo](https://youtu.be/E9zW9e6HOzU)
-- **YouTube Comment Analyzer (Python)** — Sentiment + keyword analysis on channel comments with visualizations.
 
-## Stack highlights
-- Languages: Python, C#, C++, Java, TypeScript/Dart
-- Frameworks: FastAPI, Angular, PySide6/Qt, Streamlit, Unity, LibGDX, Flutter Web
-- AI/ML: Whisper, ESRGAN, YOLO (integration), OpenAI APIs
-- Infra: Docker, MQTT, Google Cloud (GCE/Cloud Run)
+## 🛠️ Tech Stack
+
+**Languages**  
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white)
+![R](https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white)
+
+**Frontend & UI**  
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![PySide6](https://img.shields.io/badge/-PySide6/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+
+**Backend & APIs**  
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![REST](https://img.shields.io/badge/-REST%20APIs-005571?style=flat-square)
+
+**AI / ML**  
+![OpenAI](https://img.shields.io/badge/-OpenAI%20APIs-412991?style=flat-square&logo=openai&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/-Computer%20Vision-FF6F00?style=flat-square)
+![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square)
+
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Unity](https://img.shields.io/badge/-Unity-000000?style=flat-square&logo=unity&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+
 
