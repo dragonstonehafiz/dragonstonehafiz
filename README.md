@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-<img width=40% height=40% align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonstonehafiz&theme=github_dark" alt="Top Languages" />
-<img width=55% height=55% align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonstonehafiz&theme=github_dark" alt="GitHub Stats" />
+<img width=48% align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dragonstonehafiz" alt="Top Languages" />
+<img width=48% align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dragonstonehafiz" alt="GitHub Stats" />
 </p>
 
 
