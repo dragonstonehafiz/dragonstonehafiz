@@ -20,15 +20,15 @@
 
 ## Projects
 
-| Project | Description | Links |
+| Project | Description | Link |
 | :--- | :--- | :--- |
-| **Translator Helper** | Web app that transcribes audio with WhisperX and translates subtitle files with LLMs, using a per-series library of characters and glossary terms for context. | [Project Page](https://dragonstonehafiz.com/project/personal-translator-helper) · [GitHub](https://github.com/dragonstonehafiz/translator-helper) |
-| **YouTube Analytics** | Local dashboard that syncs my channel's data from the YouTube APIs to track views, watch time, earnings, traffic sources, and comments. | [Project Page](https://dragonstonehafiz.com/project/personal-youtube-analytics) · [GitHub](https://github.com/dragonstonehafiz/youtube-analytics-v2) |
-| **Budgeting Analysis** | Personal spending dashboard that turns a purchases spreadsheet into filterable, interactive charts by category, store, and tag. | [Project Page](https://dragonstonehafiz.com/project/personal-spending-dashboard) · [GitHub](https://github.com/dragonstonehafiz/budgeting-analysis) |
-| **Portfolio Site** | My personal website, built with Flutter Web, showcasing my projects with dedicated pages for each one. | [Website](https://dragonstonehafiz.com) · [GitHub](https://github.com/dragonstonehafiz/portfolio-site) |
-| **Bird Laser Targeter** | Raspberry Pi bird deterrent that listens for bird calls, finds birds with a YOLOv5 camera model, and aims a laser at them with pan-tilt servos to scare them off. | [Project Page](https://dragonstonehafiz.com/project/sit-bird-laser-targeter) · [GitHub](https://github.com/dragonstonehafiz/inf2009-project) |
-| **Diamond City Radio** | Fallout 4-inspired Pip-Boy radio player that builds rotating sets of songs, DJ intros, and news reports, for desktop and mobile. | [Project Page](https://dragonstonehafiz.com/project/personal-diamond-city-radio) · [GitHub](https://github.com/dragonstonehafiz/DiamondCityRadio-Flutter) |
-| **Halo Dialogue Archive** | Fan-made site for browsing and searching datamined voice lines from the Halo games, with Whisper-generated transcripts. | [Website](https://halo-dialogue-archive.com/) · [GitHub](https://github.com/dragonstonehafiz/halo-dialogue-archive) |
+| **Translator Helper** | Web app that transcribes audio with WhisperX and translates subtitle files with LLMs, using a per-series library of characters and glossary terms for context. | [Project Page](https://dragonstonehafiz.com/project/personal-translator-helper) |
+| **YouTube Analytics** | Local dashboard that syncs my channel's data from the YouTube APIs to track views, watch time, earnings, traffic sources, and comments. | [Project Page](https://dragonstonehafiz.com/project/personal-youtube-analytics) |
+| **Budgeting Analysis** | Personal spending dashboard that turns a purchases spreadsheet into filterable, interactive charts by category, store, and tag. | [Project Page](https://dragonstonehafiz.com/project/personal-spending-dashboard) |
+| **Portfolio Site** | My personal website, built with Flutter Web, showcasing my projects with dedicated pages for each one. | [Website](https://dragonstonehafiz.com) |
+| **Bird Laser Targeter** | Raspberry Pi bird deterrent that listens for bird calls, finds birds with a YOLOv5 camera model, and aims a laser at them with pan-tilt servos to scare them off. | [Project Page](https://dragonstonehafiz.com/project/sit-bird-laser-targeter) |
+| **Diamond City Radio** | Fallout 4-inspired Pip-Boy radio player that builds rotating sets of songs, DJ intros, and news reports, for desktop and mobile. | [Project Page](https://dragonstonehafiz.com/project/personal-diamond-city-radio) |
+| **Halo Dialogue Archive** | Fan-made site for browsing and searching datamined voice lines from the Halo games, with Whisper-generated transcripts. | [Website](https://halo-dialogue-archive.com/) |
 | **Electronica** | Geometry Wars-inspired top-down shooter built solo in Unity (C#) as my final year project at NYP, with wave-based and endless modes and four boss fights. | [Project Page](https://dragonstonehafiz.com/project/nyp-electronica) |
 
 ## Technologies, Languages and Frameworks
